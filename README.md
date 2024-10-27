@@ -1,2 +1,1 @@
-# gitplay
-repositorio de prueba para comandos git
+VEngo a romperte todo
